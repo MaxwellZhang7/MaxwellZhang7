@@ -1,9 +1,10 @@
+<img src="profile.jpg" alt="Haiguang Zhang" width="150" style="border-radius: 50%;" />
 # 👋 Hi, I'm Haiguang Zhang (张海光)
 
 🎓 M.Eng. in Computer Technology, Dalian University of Technology  
 📚 Researcher in NLP, Legal AI, and Knowledge Graphs  
 ✉️ Email: maxwellzhg@gmail.com  
-🔗 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=xIPk_pgAAAAJ&hl=en)/) | [GitHub](https://github.com/MaxwellZhang7)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=xIPk_pgAAAAJ&hl=en) | [GitHub](https://github.com/MaxwellZhang7)
 
 ---
 
