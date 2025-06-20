@@ -1,5 +1,5 @@
 <img src="profile.jpg" alt="Haiguang Zhang" width="150" style="border-radius: 50%;" />
-# 👋 Hi, I'm Haiguang Zhang (张海光)
+## 👋 Hi, I'm Haiguang Zhang (张海光)
 
 🎓 M.Eng. in Computer Technology, Dalian University of Technology  
 📚 Researcher in NLP, Legal AI, and Knowledge Graphs  
