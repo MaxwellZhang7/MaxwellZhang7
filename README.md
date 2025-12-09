@@ -48,7 +48,7 @@ I’m passionate about information extraction, large language models (LLMs), and
 ## 🧪 Projects
 
 - **Judicial LLM Fine-Tuning @ DUT** – Fine-tuned LLMs on Chinese legal texts, improved precision by 12%.  
-- **Legal Supervision Knowledge Graph** – Built large-scale legal KG with Dalian Procuratorate.   
+- **Legal Supervision Knowledge Graph** – Built large-scale legal KG.   
 - **Fatigue Detection System** – Mobile/web system using physiological signals; won software design awards.
 
 ---
