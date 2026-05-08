@@ -61,8 +61,8 @@ I’m passionate about information extraction, large language models (LLMs), and
 - 🥈 **2nd Prize**  –  18th Shandong Provincial Software Design Competition
 - 🥉 **3rd Prize**  –   CAIL2021 Judicial QA Track 
 - 📊 **Undergraduate Major Ranking: Top 5%**
-- 💰 **National Endeavor Scholarship**, 6× Academic Scholarships
-- 💡 **Leader, National College Innovation & Entrepreneurship Program** – Awarded National-level Funding
+- 💰 **National Endeavor Scholarship**: 6× Academic Scholarships
+- 💡 **Leader, National College Innovation & Entrepreneurship Program**: Awarded National-level Funding
 - 🎓 **Excellent Student (×3), Outstanding Graduate**, Outstanding Class Cadre, Outstanding League Member
 ---
 
